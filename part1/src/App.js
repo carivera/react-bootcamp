@@ -11,7 +11,7 @@ function App() {
       <br />
       <strong>Edad:</strong>{Friends[0].age}
     </div> 
-  );
+  );  
 }
 
 export default App;
